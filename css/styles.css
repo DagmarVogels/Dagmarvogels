@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Lato, "Hubballi", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -48,4 +48,9 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.myname { color: #1D3DD6}
+
+.headerbgdagmar {background-color: #D2D556; font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+
 }
